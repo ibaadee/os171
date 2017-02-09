@@ -1,0 +1,4 @@
+[Week:w00]-[Date:170209]-[StartTime:15]-[CategoryCode:PS]-[Testing Lab]
+[Week:w00]-[Date:170209]-[StartTime:15.30]-[CategoryCode:PS]-[Testing Lab]
+[Week:w00]-[Date:170209]-[StartTime:16]-[CategoryCode:PS]-[Testing Lab]
+[Week:w00]-[Date:170209]-[StartTime:16.30]-[CategoryCode:PS]-[Testing Lab]
