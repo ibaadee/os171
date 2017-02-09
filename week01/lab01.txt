@@ -1,0 +1,21 @@
+total 72
+drwxr-xr-x 18 ibad.rahadian StafCS 4096 Feb  9 16:21 .
+drwx--x--x  3 ibad.rahadian StafCS 4096 Feb  9 16:18 ..
+drwxr-xr-x  8 ibad.rahadian StafCS 4096 Feb  9 16:19 .git
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 16:00 key
+-rw-r--r--  1 ibad.rahadian StafCS    0 Feb  9 16:22 lab01.txt
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 16:00 log
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 16:11 sandbox
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 16:18 week00
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 15:58 week01
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 15:59 week02
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 15:59 week03
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 15:59 week04
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 15:59 week05
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 15:59 week06
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 15:59 week07
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 16:00 week08
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 16:00 week09
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 16:00 week10
+drwxr-xr-x  2 ibad.rahadian StafCS 4096 Feb  9 16:00 xtra
+/home/fasilkom/mahasiswa/i/ibad.rahadian/os171/week01
